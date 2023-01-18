@@ -1,3 +1,3 @@
 # Feladatok 
--[x] tTávoli repó klónozása
+- [x] Távoli repó klónozása
 
