@@ -1,1 +1,1 @@
-# szimki
+# Széchenyi István Technikum, Zalaegerszeg
